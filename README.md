@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, Pronob Barman 
+#### Data Scientist
+Hi, I'm Pronob. I'm currently a PhD candidate in Information Science at the University of Maryland Baltimore County, where I'm deeply engaged in exploring the realms of statistics and data science.
 
-<!--
-**pronob29/pronob29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python/ R / Matlab / Java / SAS / SPSS/ Power BI / Tableau 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Topic Modeling 
+- 📫 How to reach me: pronob.barman29@gmail.com 
+- ⚡ Fun fact: Love to play Soccer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pronob29)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/pronob29)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pronob-kumar-barman-95a694130//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pronob_barman/)  
+
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pronob29&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/pronob29)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=pronob29)  
+
