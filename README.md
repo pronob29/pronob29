@@ -1,5 +1,4 @@
 ### Hi, I'm Pronob 👋🏾 👨‍💻
-#### Data Scientist
 ![Data Scientist](https://github.com/pronob29/pronob29/blob/main/pronob.jpg)
 
 Hi, I'm Pronob. I'm currently a PhD candidate in Information Science at the University of Maryland Baltimore County, where I'm deeply engaged in exploring the realms of statistics and data science.
