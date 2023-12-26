@@ -8,7 +8,7 @@ I'm currently a PhD candidate in Information Science at the University of Maryla
 - ⚡ Fun fact: Love to play Soccer
 
 Skills:
-![My Skills](https://skillicons.dev/icons?i=py,discord,bootstrap,arduino)
+![My Skills](https://skillicons.dev/icons?i=py,git,R,discord,bootstrap,arduino)
 
 
 
