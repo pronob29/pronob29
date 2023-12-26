@@ -1,4 +1,4 @@
-### Hi, I'm Pronob 👋🏾 👩🏾‍💻
+### Hi, I'm Pronob 👋🏾 👨‍💻
 #### Data Scientist
 ![Data Scientist](https://github.com/pronob29/pronob29/blob/main/pronob.jpg)
 
