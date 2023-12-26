@@ -3,8 +3,7 @@
 
 I'm currently a PhD candidate in Information Science at the University of Maryland Baltimore County, where I'm deeply engaged in exploring the realms of statistics and data science. My primary research interests include Topic Modeling, Recommendation Systems, and Bias and Fairness in AI. 
 
-Skills: Python/ R / Matlab / Java / SAS / SPSS/ Power BI / Tableau 
-
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
 - 🔭 I’m currently working on Topic Modeling 
 - 📫 How to reach me: pronob.barman29@gmail.com 
 - ⚡ Fun fact: Love to play Soccer  
