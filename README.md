@@ -7,7 +7,7 @@ I'm currently a PhD candidate in Information Science at the University of Maryla
 - 📫 How to reach me: pronob.barman29@gmail.com 
 - ⚡ Fun fact: Love to play Soccer
 
-##########Skills
+Skills:
 ![My Skills](https://skillicons.dev/icons?i=py,discord,bootstrap,arduino)
 
 
