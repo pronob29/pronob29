@@ -13,5 +13,5 @@ I'm currently a PhD candidate in Information Science at the University of Maryla
 ### :chart_with_upwards_trend: Skills:
 [![My Skills](https://skillicons.dev/icons?i=py,r,git,github,linkedin,devto,java,tensorflow,pytorch,powershell,postgres,octave,mysql,md,matlab,js,html,css,discord,vscode)](https://skillicons.dev)
 
-### :chart_with_upwards_trend: GitHub stats:
+### :chart_with_upwards_trend: GitHub Stats:
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pronob29&theme=dracula"/></p>
