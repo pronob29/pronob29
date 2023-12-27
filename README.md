@@ -11,7 +11,7 @@ I'm a PhD candidate in Information Science at the University of Maryland Baltimo
 I’m currently immersed in advanced research on Topic Modeling, unraveling complex patterns and insights from large datasets.
 
 📧 **Get in Touch:**
-Feel free to reach out to me for collaborations or inquiries at [pronob.barman29@gmail.com](mailto:pronob.barman29@gmail.com).
+Feel free to reach out to me for collaborations or inquiries: [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:pronob.barman29@gmail.com)
 
 ⚽ **Fun Fact:**
 I'm an avid soccer enthusiast! When I'm not delving into data, you can find me on the soccer field embracing the thrill of the game.
