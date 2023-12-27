@@ -8,6 +8,6 @@ I'm currently a PhD candidate in Information Science at the University of Maryla
 - ⚡ Fun fact: Love to play Soccer
 
 # Skills:
-[![My Skills](https://skillicons.dev/icons?i=py,r,git,github,in,devto,java,tensorflow,pytorch,powershell,postgres,octave,mysql,md,matlab,js,html,css,discord,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,git,github,linkedin,devto,java,tensorflow,pytorch,powershell,postgres,octave,mysql,md,matlab,js,html,css,discord,vscode)](https://skillicons.dev)
 
 
