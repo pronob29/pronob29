@@ -1,4 +1,4 @@
-### Hi, I'm Pronob 👋
+### Hi, I'm Pronob :wave:
 
 <p align="center">
   <img src="https://github.com/pronob29/pronob29/blob/main/Pronob%20Barman.png" alt="Data Scientist">
@@ -10,8 +10,8 @@ I'm currently a PhD candidate in Information Science at the University of Maryla
 - 📫 How to reach me: pronob.barman29@gmail.com 
 - ⚡ Fun fact: Love to play Soccer
 
-### 📈 Skills:
+### :chart_with_upwards_trend: Skills:
 [![My Skills](https://skillicons.dev/icons?i=py,r,git,github,linkedin,devto,java,tensorflow,pytorch,powershell,postgres,octave,mysql,md,matlab,js,html,css,discord,vscode)](https://skillicons.dev)
 
-### 📈 GitHub stats
+### :chart_with_upwards_trend: GitHub stats:
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pronob29&theme=dracula"/></p>
