@@ -10,10 +10,10 @@ I'm currently a PhD candidate in Information Science at the University of Maryla
 - 📫 How to reach me: pronob.barman29@gmail.com 
 - ⚡ Fun fact: Love to play Soccer
 
-### :chart_with_upwards_trend: Skills:
+### :chart_with_upwards_trend: Skills
 [![My Skills](https://skillicons.dev/icons?i=py,r,git,github,linkedin,devto,java,tensorflow,pytorch,powershell,postgres,octave,mysql,md,matlab,js,html,css,discord,vscode)](https://skillicons.dev)
 
-### :chart_with_upwards_trend: GitHub Stats:
+### :chart_with_upwards_trend: GitHub Stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pronob29&theme=dracula"/></p>
 
 ### :speak_no_evil: A little laughter for you
