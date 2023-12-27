@@ -1,5 +1,5 @@
 ### Hi, I'm Pronob 👋🏾 👨‍💻
-![Data Scientist](https://github.com/pronob29/pronob29/blob/main/Pronob%20Barman.png)
+<p align="center">![Data Scientist](https://github.com/pronob29/pronob29/blob/main/Pronob%20Barman.png)
 
 I'm currently a PhD candidate in Information Science at the University of Maryland Baltimore County, where I'm deeply engaged in exploring the realms of statistics and data science. My primary research interests include Topic Modeling, Recommendation Systems, and Bias and Fairness in AI. 
 
