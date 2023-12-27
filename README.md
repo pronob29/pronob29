@@ -1,4 +1,4 @@
-### Hi, I'm Pronob 👋
+## Hi, I'm Pronob 👋
 
 🎓 **About Me:**
 I'm a PhD candidate in Information Science at the University of Maryland Baltimore County. My journey in academia is fueled by a deep passion for statistics and data science. My primary research interests are in Topic Modeling, Recommendation Systems, and exploring Bias and Fairness in AI.
