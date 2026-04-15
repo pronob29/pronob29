@@ -1,10 +1,10 @@
 ## Hi, I'm Pronob 👋
 
 🎓 **About Me:**
-I'm a PhD candidate in Information Science at the University of Maryland Baltimore County. My journey in academia is fueled by a deep passion for statistics, machine learning, and data science. My primary research interests are in Topic Modeling, Recommendation Systems, and exploring Bias and Fairness in AI.
+I recently earned my PhD in Information Systems from the University of Maryland, Baltimore County (UMBC) in April 2026. My research sits at the intersection of human-centered AI, healthcare informatics, and machine learning — with a focus on probabilistic topic modeling, neural recommendation systems, and fairness-aware AI.
 
 🔍 **Current Work:**
-I’m currently immersed in advanced research on Topic Modeling, unraveling complex patterns and insights from large datasets.
+My dissertation focused on leveraging generative AI to support online health communities through intelligent support group formation. This spanned developing probabilistic topic models (gDMR, gSTM), building neural collaborative filtering frameworks under extreme data sparsity (PL-NCF), and conducting human-centered user studies to ensure these systems are both effective and equitable.
 
 📧 **Get in Touch:**
 Feel free to reach out to me for collaborations or inquiries: [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:pronob.barman29@gmail.com)
