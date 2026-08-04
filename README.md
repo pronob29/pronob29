@@ -6,9 +6,6 @@ I recently earned my PhD in Information Systems from the University of Maryland,
 🔍 **Current Work:**
 My dissertation focused on leveraging generative AI to support online health communities through intelligent support group formation. This spanned developing probabilistic topic models (gDMR, gSTM), building neural collaborative filtering frameworks under extreme data sparsity (PL-NCF), and conducting human-centered user studies to ensure these systems are both effective and equitable.
 
-📧 **Get in Touch:**
-Feel free to reach out to me for collaborations or inquiries: [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:pronob.barman29@gmail.com)
-
 ⚽ **Fun Fact:**
 I'm an avid soccer enthusiast! When I'm not delving into data, you can find me on the soccer field embracing the thrill of the game.
 
