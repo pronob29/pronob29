@@ -1,19 +1,54 @@
 ## Hi, I'm Pronob 👋
 
-🎓 **About Me:**
-I recently earned my PhD in Information Systems from the University of Maryland, Baltimore County (UMBC) in April 2026. My research sits at the intersection of human-centered AI, healthcare informatics, and machine learning — with a focus on probabilistic topic modeling, neural recommendation systems, and fairness-aware AI.
+I'm an **AI and Machine Learning researcher** with a Ph.D. in Information Systems from the University of Maryland, Baltimore County (UMBC), with additional graduate training in Statistics.
 
-🔍 **Current Work:**
-My dissertation focused on leveraging generative AI to support online health communities through intelligent support group formation. This spanned developing probabilistic topic models (gDMR, gSTM), building neural collaborative filtering frameworks under extreme data sparsity (PL-NCF), and conducting human-centered user studies to ensure these systems are both effective and equitable.
+My research focuses on **trustworthy and human-centered AI for digital health**, with particular interests in personalized recommendation, probabilistic modeling, representation learning, fairness, privacy, and responsible AI.
 
-⚽ **Fun Fact:**
-I'm an avid soccer enthusiast! When I'm not delving into data, you can find me on the soccer field embracing the thrill of the game.
+### 🔬 Research
 
-### :chart_with_upwards_trend: Skills
-[![My Skills](https://skillicons.dev/icons?i=py,r,git,github,linkedin,devto,java,tensorflow,pytorch,powershell,postgres,octave,mysql,md,matlab,js,html,css,discord,vscode)](https://skillicons.dev)
+My doctoral research explored how AI can support people in online health communities through personalized support-group formation and recommendation.
 
-### :chart_with_upwards_trend: GitHub Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pronob29&theme=dracula"/></p>
+Some of my recent work includes:
 
-### :speak_no_evil: A little laughter for you
+- **gDMR and gSTM** — group-aware probabilistic topic-modeling approaches that incorporate textual, contextual, and social-interaction information.
+- **PL-NCF** — a pseudo-label neural collaborative filtering framework for recommendation under sparse and cold-start conditions.
+- **Human-centered AI evaluation** — studying trust, transparency, privacy, fairness, personalization, usefulness, and human oversight in AI-supported health recommendations.
+- **Caregiver-support AI** — extending trustworthy AI and personalization methods toward caregiver-support and home- and community-based care technologies.
+- **Large Language Models and RAG** — developing evidence-grounded retrieval-augmented generation and decision-support pipelines.
+
+My broader research interests include:
+
+**Trustworthy AI · Digital Health · Recommender Systems · Large Language Models · RAG · Probabilistic Machine Learning · Graph Learning · Representation Learning · Reinforcement Learning · Explainable AI · Fairness-Aware ML**
+
+### 🛠️ Technical Skills
+
+[![My Skills](https://skillicons.dev/icons?i=py,r,pytorch,tensorflow,java,git,github,postgres,mysql,matlab,js,html,css,vscode)](https://skillicons.dev)
+
+**Languages:** Python, R, SQL, Java, C/C++, MATLAB  
+**ML/AI:** PyTorch, TensorFlow, scikit-learn, Hugging Face, LLMs, RAG, recommender systems, topic modeling, graph-based learning  
+**Data & Systems:** PostgreSQL, MySQL, AWS, Docker, APIs, large-scale data processing  
+**Methods:** Deep learning, probabilistic modeling, statistical inference, ranking, representation learning, fairness, explainability, and human-centered evaluation
+
+### 📚 Selected Research Themes
+
+- Personalized AI for digital health and online health communities
+- Sparse and cold-start recommendation
+- Trustworthy and responsible AI
+- Human-centered evaluation of AI systems
+- Probabilistic topic modeling and latent-variable models
+- Evidence-grounded LLM and RAG systems
+- Fairness, privacy, transparency, and human oversight
+
+### 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pronob29&theme=dracula" />
+</p>
+
+### ⚽ Outside Research
+
+I'm an avid soccer enthusiast. When I'm not working on AI or machine learning, you can often find me following or playing soccer.
+
+### 😄 A Little Laughter
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
